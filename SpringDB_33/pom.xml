@@ -8,7 +8,7 @@
 	<properties>
 		<spring-framework.version>5.1.6.RELEASE</spring-framework.version>
 		<cglib.version>3.2.10</cglib.version>
-				<org.xerial>3.27.2.1</org.xerial>
+				<org.xerial>3.41.2.2</org.xerial>
 	</properties>
 
 	<dependencies>
